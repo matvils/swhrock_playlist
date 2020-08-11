@@ -18,3 +18,5 @@ Pirmajā diennaktī neviena dziesma nedublējās.
 Protams, ja ir vēlme var arī izmantot spotify listi, kur lielākā daļa labi ieimportējās.
 
 https://open.spotify.com/playlist/0gPs11V8Xp2dYqftJwK6QI?si=Jdhkagw1Tqu-02NEnvd0kg
+
+grupas.txt - atlasītas visas 316 grupas
