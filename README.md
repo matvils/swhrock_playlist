@@ -7,6 +7,8 @@ saglabā to teksta failā swh_rock_list.txt, pievienojot klāt datumu un laiku.
 
 atlasa_dziesmas.py no esošās dziesmu listes izņem tukšās dziesmas, reklāmas un ziņas. 
 
+visa_liste.txt - visas noskanējušās dziesmas.
+
 no_dublicates.py - atlasa tikai unikālās dziesmas
 
 playlist.txt - trīs nedēļas darbināta skripta iznākums.
@@ -16,4 +18,3 @@ Pirmajā diennaktī neviena dziesma nedublējās.
 Protams, ja ir vēlme var arī izmantot spotify listi, kur lielākā daļa labi ieimportējās.
 
 https://open.spotify.com/playlist/0gPs11V8Xp2dYqftJwK6QI?si=Jdhkagw1Tqu-02NEnvd0kg
-
