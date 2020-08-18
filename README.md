@@ -20,3 +20,5 @@ Protams, ja ir vēlme var arī izmantot spotify listi, kur lielākā daļa labi 
 https://open.spotify.com/playlist/0gPs11V8Xp2dYqftJwK6QI?si=Jdhkagw1Tqu-02NEnvd0kg
 
 grupas.txt - atlasītas visas 316 grupas
+
+get_album_swh.py - sameklē konrētās dziesmas albūmu un albuma vāciņa bildi
